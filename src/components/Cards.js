@@ -38,14 +38,14 @@ class Cards extends React.Component {
 
                     <Card
                     img = {'/emojis.png'}
-                    titulo={'Randome Emoji'}
+                    titulo={'Random Emoji'}
                     description = {'This is a tiny project, just for fun. Enter here and you will get a random emoji, try to make the same expresion. '}
                     urlButtom = {'https://val135.github.io/emojis'}
                     />
                     
                     <Card
                     img = {'/calculator.png'}
-                    titulo={'Randome Quote Machine'}
+                    titulo={'Calculator'}
                     description = {'This is a Free Code Camp project made in Vanilla JavaScript. It works as a calculator to add, multiply, divide and more. '}
                     urlButtom = {'https://gifted-swirles-3016d5.netlify.com'}
                     />
