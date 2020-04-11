@@ -31,7 +31,7 @@ class Cards extends React.Component {
 
                     <Card
                     img = {'/random-quote.png'}
-                    titulo={'Randome Quote Machine'}
+                    titulo={'Random Quote Machine'}
                     description = {'This is a Free Code Camp project made in Vanilla JavaScript. It shows different quotes and color every time. '}
                     urlButtom = {'https://gifted-swirles-3016d5.netlify.com'}
                     />
