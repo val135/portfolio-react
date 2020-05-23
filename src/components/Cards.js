@@ -8,12 +8,14 @@ class Cards extends React.Component {
             <div className="container-fluid">              
                 <h3 className="text-center selection-work-text">Here you can see some projects I have done!</h3>
                 <div className="row container-fluid web-projects mx-auto justify-content-center w-100"> 
+                    {/*
                     <Card
                     img = {'/lecarne.png'}
                     titulo={'Landing product'}
                     description = {'Landing page product designed for Le Carné Gourmet, a restaurant located in Medellín, Colombia'}
                     urlButtom = {'https://val135.github.io/landing-product/'}
                     />
+                    */}
 
                     <Card
                     img = {'/wikipedia.png'}
@@ -30,6 +32,13 @@ class Cards extends React.Component {
                     />
 
                     <Card
+                    img = {'/packy-food.png'}
+                    titulo={'Website design'}
+                    description = {'PackyFood is an application that fights waste food in Colombia. Clic here to see more.'}
+                    urlButtom = {'https://packyfood.netlify.app/'}
+                    />
+
+                    <Card
                     img = {'/random-quote.png'}
                     titulo={'Random Quote Machine'}
                     description = {'This is a Free Code Camp project made in Vanilla JavaScript. It shows different quotes and color every time. '}
@@ -42,13 +51,23 @@ class Cards extends React.Component {
                     description = {'This is a tiny project, just for fun. Enter here and you will get a random emoji, try to make the same expresion. '}
                     urlButtom = {'https://val135.github.io/emojis'}
                     />
+
+                    <Card
+                    img = {'/rock-paper-scissors.png'}
+                    titulo={'Rock, paper, scissors'}
+                    description = {'The famous rock, paper and scissors game created using Vanilla JavaScrip. Clic here to play!'}
+                    urlButtom = {'https://rock-paper-scissors-val135.netlify.app/'}
+                    />
                     
+                    {/*
                     <Card
                     img = {'/calculator.png'}
                     titulo={'Calculator'}
                     description = {'This is a Free Code Camp project made in Vanilla JavaScript. It works as a calculator to add, multiply, divide and more. '}
                     urlButtom = {'https://gifted-swirles-3016d5.netlify.com'}
                     />
+                    */}
+
                 </div>
             </div>        
         )
