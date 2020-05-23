@@ -9,7 +9,7 @@ function about() {
             <div class="col-xs-12 col-sm-6 col-md-8 px-5 about-me-info">
                 <h2><b>About me</b></h2>
                 <p class="about-me-text">Advertising and communications professional with more than 5 years of experience in marketing,
-                social media, graphic design, and advertising advertising campaigns. Lifelong learner, traveler, and passionate about technology. <br/>
+                social media, graphic design, and advertising campaigns. Lifelong learner, traveler, and passionate about technology. <br/>
                 <br />
                     Creative, proactive, and responsible professional with
                     extensive international work experience.
