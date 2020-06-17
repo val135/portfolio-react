@@ -69,20 +69,14 @@ class Cards extends React.Component {
                     />
                     }
 
-{
+                    {
                     <Card
                     img = {'/agile-innova.jpg'}
                     titulo={'Website design'}
-                    description = {'Redesing of Agile Innova Website, a company that improves businesses innovation  '}
-                    urlButtom = {'https://www.lecarnegourmet.com/nuevositio'}
+                    description = {'Redesing of Agile Innova Website, a company that improves businesses innovation and teaches web development.'}
+                    urlButtom = {'https://wwww.agileinnova.wordpress.com/'}
                     />
                     }
-
-                    
-
-                    
-                    
-                    
 
                 </div>
             </div>        
