@@ -6,7 +6,7 @@ function Bottom() {
 
         <div className="container-fluid">
             <div className="row contact-me mx-0 w-100">
-                <div className="col-xs-12 col-sm-6 col-md-4 text-center"> <a name="targetcontact"></a>
+                <div className="col-xs-12 col-sm-6 col-md-4 text-center"> <a name="targetcontact" href="/#"></a>
                     <div className="col-xs-12 col-sm-5 col-md-8 float-right contact-group">
                         <h2 className="text-center text-white pt-1 contact-text"><b>Contact me!</b></h2>
                         <div className="row w-75 mx-auto mt-2 contact-icons">
