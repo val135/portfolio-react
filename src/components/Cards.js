@@ -49,14 +49,14 @@ class Cards extends React.Component {
                     img = {'/calculator.png'}
                     titulo={'Calculator'}
                     description = {'This is a Free Code Camp project made in Vanilla JavaScript. It works as a calculator to add, multiply, divide and more. '}
-                    urlButtom = {'https://gifted-swirles-3016d5.netlify.com'}
+                    urlButtom = {'https://val135.github.io/calculator/'}
                     />
                     }
 
                     <Card
                     img = {'/packy-food.png'}
                     titulo={'Website design'}
-                    description = {'PackyFood is an application that fights waste food in Colombia. Clic here to see more.'}
+                    description = {'PackyFood is an application that fights waste food in Colombia. My role here was relatead to UX/UI.'}
                     urlButtom = {'https://packyfood.netlify.app/'}
                     />
 
@@ -64,7 +64,7 @@ class Cards extends React.Component {
                     <Card
                     img = {'/lecarne.png'}
                     titulo={'Website design'}
-                    description = {'Redesing of Le Carné Website to implement an ecommerce and show all their products and restaurant '}
+                    description = {'Redesing of Le Carné Website to implement an ecommerce and introduce their new restaurant '}
                     urlButtom = {'https://www.lecarnegourmet.com/nuevositio'}
                     />
                     }
@@ -72,9 +72,9 @@ class Cards extends React.Component {
                     {
                     <Card
                     img = {'/agile-innova.jpg'}
-                    titulo={'Website design'}
+                    titulo={'Website Prototype'}
                     description = {'Redesing of Agile Innova Website, a company that improves businesses innovation and teaches web development.'}
-                    urlButtom = {'https://wwww.agileinnova.wordpress.com/'}
+                    urlButtom = {'https://drive.google.com/file/d/1boAaMduQt57Pz0zWjY5JQ6Sdg4a8zD7Z/view?usp=sharing'}
                     />
                     }
 
